@@ -28,7 +28,7 @@
                                 <rect key="frame" x="192" y="190" width="183" height="434"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Progress" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NNL-xq-f0Q">
-                                <rect key="frame" x="149.33333333333334" y="744" width="76.333333333333343" height="24"/>
+                                <rect key="frame" x="149" y="744" width="77" height="24"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
